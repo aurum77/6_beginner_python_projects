@@ -6,7 +6,7 @@ Write a programme where the computer randomly generates a number between 0 and 2
 ## Rock, Paper, Scissors DONE
 Make a rock-paper-scissors game where it is the player vs the computer. The computer’s answer will be randomly generated, while the program will ask the user for their input. This project will better your understanding of while loops and if statements.
 
-## Generating a sine vs cosine curve TODO
+## Generating a sine vs cosine curve DONE
 For this project, you will have a generate a sine vs cosine curve. You will need to use the numpy library to access the sine and cosine functions. You will also need to use the matplotlib library to draw the curve. To make this more difficult, make the graph go from -360° to 360°, with there being a 180° difference between each point on the x-axis.
 
 ## Password generator DONE
